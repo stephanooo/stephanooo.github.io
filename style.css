@@ -2,10 +2,10 @@
 body {
 	background: linear-gradient(#F7CAC7, #ff8290 95%);
 	margin: 10px;
-	padding: 50px;
     font-family: 'Raleway', sans-serif;
 	border: 1px #fffae0;
 	border: 1px #fffae0;
+	padding: 50px calc(50% - 700px);
 	}	
 p {
 	font-family: 'Bangers', cursive;
@@ -56,7 +56,7 @@ h2 {
 	letter-spacing: .5px;
 }
 h1 {
-	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+	background-image: url(https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif);
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
@@ -67,6 +67,7 @@ h1 {
 	letter-spacing: .3px;
 	padding-bottom: 20px;
 }
+/*   star-warp:  https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif  stars-side: https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif*/
 button {
 	display: block;
 	width: 170px;
